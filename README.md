@@ -1,10 +1,7 @@
 # Projeto — Qualidade de Software
 
 ## 👥 Integrantes
-- Nome Completo — Matrícula
-- Nome Completo — Matrícula
-- Nome Completo — Matrícula
-- Nome Completo — Matrícula
+- Angelo Fonseca — 782220026
 
 ## 🎯 Objetivo do Repositório
 Este repositório reúne as atividades desenvolvidas na disciplina de Qualidade de Software, realizadas por meio da metodologia PBL.
