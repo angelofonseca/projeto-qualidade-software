@@ -1,6 +1,4 @@
 # 🧪 Aula 5 – Testes Funcionais vs Estruturais  
-## LocalEats
-
 
 ## 🎯 1. Funcionalidade escolhida
 
