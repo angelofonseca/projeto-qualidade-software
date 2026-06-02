@@ -15,7 +15,6 @@ def _fazer_login(page):
     page.get_by_role("textbox", name="teste@teste.com").fill(EMAIL)
     page.get_by_role("textbox", name="Sua senha secreta").fill(SENHA)
     page.locator("#loginForm").get_by_role("button", name="Entrar").click()
-    # ESSENCIAL: espera a lista carregar antes de qualquer busca (mata a race condition)
     expect(page.locator(CARD).first).to_be_visible()
 
 
